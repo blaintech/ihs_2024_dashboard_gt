@@ -1,0 +1,9 @@
+https://github.com/National-Health-Intelligence-Unit/ihs_2024_dashboard_gt.git
+
+
+
+# Option 1: Escape backslashes
+usethis::create_from_github(
+  "https://github.com/National-Health-Intelligence-Unit/ihs_2024_dashboard_gt.git",
+  destdir = "C:\\Users\\conor\\Documents\\GitHub"
+)
